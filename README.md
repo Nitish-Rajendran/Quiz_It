@@ -23,4 +23,4 @@
 
            11. Detailed performance analysis for students (correct/incorrect answers, speed, and overall scores).
 ### Note:
-This is a product i will be doing under the mentorship of Spotknack to lay a string foundation in the basics of software development.
+This is a product i will be doing under the mentorship of Spotknack to lay a strong foundation in the basics of software development.
